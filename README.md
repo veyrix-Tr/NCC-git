@@ -1,7 +1,5 @@
 # NCC-git
-<<<<<<< HEAD
 
-=======
 
 
 ## now add your intro in this file
@@ -22,4 +20,3 @@ City = Sirsa(Haryana)
 - Name: Krish Patel
 - Branch: Chemical Engineering
 - City: Surat, Gujarat
->>>>>>> main
