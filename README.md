@@ -1,6 +1,7 @@
 # NCC-git
 
 
+
 ## now add your intro in this file
 - name
 - branch
@@ -20,4 +21,6 @@ Name = Geeta
 Branch = Electrical 
 City = Sirsa(Haryana)
 
-
+- Name: Krish Patel
+- Branch: Chemical Engineering
+- City: Surat, Gujarat
