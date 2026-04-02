@@ -1,7 +1,22 @@
 # NCC-git
 
-\- Name: Chanchal Choudhary
+ Name: Chanchal Choudhary
+ Branch: Computer science and engineering
+ City: Jaipur
 
-\- Branch: Computer science and engineering
+Name:Priyanshi Patel
+Branch:ECE
+City:Fatehpur,UP
 
-\- City: Roorkee
+Name: Mehul Agrawal
+Branch: PnI
+City: New Delhi
+
+intro-geeta
+Name = Geeta
+Branch = Electrical 
+City = Sirsa(Haryana)
+
+- Name: Krish Patel
+- Branch: Chemical Engineering
+- City: Surat, Gujarat
