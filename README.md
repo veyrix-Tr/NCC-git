@@ -1,13 +1,9 @@
 # NCC-git
 
+ Name: Chanchal Choudhary
+ Branch: Computer science and engineering
+ City: Jaipur
 
-
-## now add your intro in this file
-- name
-- branch
-- city
-
-------------------------------------------------------------------------------------------------------------------
 Name:Priyanshi Patel
 Branch:ECE
 City:Fatehpur,UP
